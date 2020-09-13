@@ -4,7 +4,7 @@
   "author": {
     "name": "Olalekan Ayodele",
     "email": "longyarnz@gmail.com",
-    "url": "https://www.github.com/longyarnz"
+    "url": "https://www.github.com/longyarnz/should-render"
   },
   "main": "lib/index.cjs.js",
   "module": "lib/index.esm.js",
