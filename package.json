@@ -1,9 +1,13 @@
 {
   "name": "should-render",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Olalekan Ayodele",
     "email": "longyarnz@gmail.com",
+    "url": "https://www.github.com/longyarnz"
+  },
+  "repository": {
+    "type": "GitHub",
     "url": "https://www.github.com/longyarnz/should-render"
   },
   "main": "lib/index.cjs.js",
@@ -29,5 +33,8 @@
   "peerDependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
-  }
+  },
+  "keywords": [
+    "react", "render", "should render", "JSX"
+  ]
 }
