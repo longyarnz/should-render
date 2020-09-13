@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "declarationDir": "lib/types",
+    "moduleResolution": "Node",
+    "jsx": "react",
+    "checkJs": false,
+    "allowJs": false,
+    "resolveJsonModule": true,
+    "strict": false,
+    "target": "ESNext",
+    "skipLibCheck": true,
+    "noEmit": false,
+    "esModuleInterop": true,
+    "allowUmdGlobalAccess": true
+  },
+  "include": ["components/**/*"],
+}
